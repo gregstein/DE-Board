@@ -17,7 +17,7 @@ DE Board is a windows app developed in the simplest and cutest design to get the
 
 # Download
 
-Go to [Releases Page](https://github.com/gregstein/DE-Board/Releases) and download the latest version.
+Go to [Releases Page](https://github.com/gregstein/DE-Board/releases) and download the latest version.
 
 # How To use?
 
